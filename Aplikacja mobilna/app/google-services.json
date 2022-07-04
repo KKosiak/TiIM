@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356033342125",
+    "project_id": "aplikacjagorska",
+    "storage_bucket": "aplikacjagorska.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356033342125:android:42b8650188e26419a73424",
+        "android_client_info": {
+          "package_name": "com.example.aplikacjagorska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356033342125-7eonfip0hfl9dqn1luf2of7h499mc6hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-2f6xgFnWjtxTpU56TuD-dzjmxxtTzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356033342125-7eonfip0hfl9dqn1luf2of7h499mc6hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
